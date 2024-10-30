@@ -70,3 +70,40 @@ nav{
     font-size: 12px;
     color: rgb(35, 34, 34);
 }
+marquee{
+    /* height: 00px; */
+    margin: 15px;
+    /* border-radius: 10px; */
+}
+marquee img{
+    border-radius: 8px;
+}
+.recommended{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 60px;
+    /* width: 600px; */
+}
+.recommended>select{
+    color: red;
+    border: none;
+}
+.reco-section-div{
+    /* width: 50px;
+    height: 80px; */
+    line-height: 2;
+   
+}
+
+.reco-img{
+    height: 350px;
+    width: 200px;
+    border-radius: 4px;
+}
+.recommended-section{
+    display: flex;
+    justify-content: space-between;
+    width: 90vw;
+    padding: 0px 60px;
+    font-family: sans-serif;
+}
